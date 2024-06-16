@@ -1,0 +1,21 @@
+[submodule "YEL/thirdParty/glfw"]
+	path = YEL/thirdParty/glfw
+	url = https://github.com/yatiyr/glfw.git
+[submodule "YEL/thirdParty/spdlog"]
+	path = YEL/thirdParty/spdlog
+	url = https://github.com/yatiyr/spdlog.git
+[submodule "YEL/thirdParty/imgui"]
+	path = YEL/thirdParty/imgui
+	url = https://github.com/yatiyr/imgui.git
+[submodule "YEL/thirdParty/implot"]
+	path = YEL/thirdParty/implot
+	url = https://github.com/yatiyr/implot.git
+[submodule "YEL/thirdParty/ImGuizmo"]
+	path = YEL/thirdParty/ImGuizmo
+	url = https://github.com/yatiyr/ImGuizmo.git
+[submodule "YEL/thirdParty/imgui-node-editor"]
+	path = YEL/thirdParty/imgui-node-editor
+	url = https://github.com/yatiyr/imgui-node-editor.git
+[submodule "YEL/thirdParty/yaml-cpp"]
+	path = YEL/thirdParty/yaml-cpp
+	url = https://github.com/yatiyr/yaml-cpp.git
